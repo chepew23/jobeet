@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "163e7e23e9ae9ce0955d42871d301c90",
+    "content-hash": "c1f31786b670a383649ad185e2316a54",
     "packages": [
         {
-            "name": "lexpress/doctrine1",
-            "version": "v1.3.6",
+            "name": "chepew23/doctrine1",
+            "version": "v1.3.7",
             "source": {
                 "type": "git",
-                "url": "https://github.com/LExpress/doctrine1.git",
-                "reference": "b93335de851bd6e260b0be5464cc823df4835a86"
+                "url": "https://github.com/chepew23/doctrine1.git",
+                "reference": "465471c6dbbef870f1f056b6831fc7476cd4771c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/LExpress/doctrine1/zipball/b93335de851bd6e260b0be5464cc823df4835a86",
-                "reference": "b93335de851bd6e260b0be5464cc823df4835a86",
+                "url": "https://api.github.com/repos/chepew23/doctrine1/zipball/465471c6dbbef870f1f056b6831fc7476cd4771c",
+                "reference": "465471c6dbbef870f1f056b6831fc7476cd4771c",
                 "shasum": ""
             },
             "require": {
@@ -50,20 +50,20 @@
                 "database",
                 "orm"
             ],
-            "time": "2018-04-08T07:43:18+00:00"
+            "time": "2019-05-15T15:29:30+00:00"
         },
         {
-            "name": "lexpress/symfony1",
-            "version": "v1.5.11",
+            "name": "chepew23/symfony1",
+            "version": "1.5.13",
             "source": {
                 "type": "git",
-                "url": "https://github.com/LExpress/symfony1.git",
-                "reference": "40d442b3ed23fa32684d6a34962c738226a3b9b4"
+                "url": "https://github.com/chepew23/symfony1.git",
+                "reference": "321d7db43fc3cde5088beee7413e5f9f12ab5095"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/LExpress/symfony1/zipball/40d442b3ed23fa32684d6a34962c738226a3b9b4",
-                "reference": "40d442b3ed23fa32684d6a34962c738226a3b9b4",
+                "url": "https://api.github.com/repos/chepew23/symfony1/zipball/321d7db43fc3cde5088beee7413e5f9f12ab5095",
+                "reference": "321d7db43fc3cde5088beee7413e5f9f12ab5095",
                 "shasum": ""
             },
             "require": {
@@ -73,7 +73,7 @@
                 "psr/log": "*"
             },
             "suggest": {
-                "lexpress/doctrine1": "Doctrine plugin",
+                "chepew23/doctrine1": "Doctrine plugin",
                 "propel/sf-propel-o-r-m-plugin": "Propel plugin",
                 "psr/log": "Psr logger"
             },
@@ -96,7 +96,7 @@
                 "MIT"
             ],
             "description": "Fork of symfony 1.4 with dic, form enhancements, latest swiftmailer and better performance",
-            "time": "2018-03-17T12:21:51+00:00"
+            "time": "2019-05-15T15:53:43+00:00"
         },
         {
             "name": "psr/log",
